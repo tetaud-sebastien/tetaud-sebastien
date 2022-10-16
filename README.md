@@ -1,4 +1,4 @@
-# Hi there, I am Sebastien Tetaud ~ 👋
+# Hi there, I am Sébastien Tétaud  ~ 👋
 
 Currently based in South Korea, Seoul I am AI Researcher in the field of Computer Vision ~
 
