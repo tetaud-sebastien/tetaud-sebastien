@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I am Sebastien Tetaud ~ 👋
 
-<!--
-**tetaud-sebastien/tetaud-sebastien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently based in South Korea, Seoul I am AI Researcher in the field of Computer Vision ~
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tetaud-sebastien&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetaud-sebastien&layout=compact)](https://github.com/tetaud-sebastien/github-readme-stats)
+
+
+### Education 
+ - Bachelor Degree of Applied Physics from Paris-Saclay University
+ - Master Degree in Astronomical and Space Based System Engineering.
+
+### Experience
+- AI researcher at DeltaX (South Korea)
+- Eath Observation Data processing Engineer Europeas Space Agency. (Italy)
+- Data Scientist at Europeas Space Agency. (Netherlancs)
+- Earth Observation Data processing Engineer at CNRS. (France)
+- Junior Physics Engineer at CERN.  (Switzerland)
+  
+
