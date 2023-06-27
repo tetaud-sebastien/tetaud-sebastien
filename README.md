@@ -4,7 +4,7 @@ Currently based in South Korea, Seoul I am AI Researcher in the field of Compute
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tetaud-sebastien)
 
-![Sebastien's GitHub stats](https://github-readme-stats.vercel.app/api?username=tetaud-sebastien&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Sebastien's GitHub stats](https://github-readme-stats.vercel.app/api?username=tetaud-sebastien&show_icons=true&theme=radical&count_private=true&include_all_commits=true&&show=contributions)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetaud-sebastien&layout=compact)](https://github.com/tetaud-sebastien/github-readme-stats)
 
