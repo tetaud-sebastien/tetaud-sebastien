@@ -4,7 +4,7 @@ Currently based in South Korea, Seoul I am AI Researcher in the field of Compute
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tetaud-sebastien)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tetaud-sebastien)](https://github.com/tetaud-sebastien/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tetaud-sebastien)](https://github.com/tetaud-sebastien/github-readme-stats&show=reviews,discussions_started,discussions_answered)
 
 ### Publication 
 
