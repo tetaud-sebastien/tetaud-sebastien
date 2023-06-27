@@ -2,10 +2,6 @@
 
 Currently based in South Korea, Seoul I am AI Researcher in the field of Computer Vision for DeltaX ~~
 
-![](https://visitor-badge.glitch.me/badge?page_id=tetaud-sebastien)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tetaud-sebastien)](https://github.com/tetaud-sebastien/github-readme-stats&show=reviews,discussions_started,discussions_answered)
-
 ### Publication 
 
 https://www.researchgate.net/publication/347613383_First_proton_and_gamma_radiation_of_the_MCT_NIR_European_astronomy_large_format_array_detector
