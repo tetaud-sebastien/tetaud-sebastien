@@ -18,8 +18,8 @@ https://www.researchgate.net/publication/347613383_First_proton_and_gamma_radiat
 
 ### Experience
 - AI researcher at DeltaX (South Korea)
-- Eath Observation Data processing Engineer Europeas Space Agency. (Italy)
-- Data Scientist at Europeas Space Agency. (Netherlancs)
+- Eath Observation Data processing Engineer European Space Agency. (Italy)
+- Data Scientist at European Space Agency. (Netherlands)
 - Earth Observation Data processing Engineer at CNRS. (France)
 - Junior Physics Engineer at CERN.  (Switzerland)
   
