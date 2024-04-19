@@ -1,6 +1,6 @@
 # Hi there, I am Sébastien Tétaud  ~ 👋
 
-Currently based in Rome, Italy I am ML Engineer at ESA ~
+Currently based in Rome, I am ML Engineer at ESA ~
 
 ### Publication 
 
